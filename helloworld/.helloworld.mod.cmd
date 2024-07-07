@@ -1,0 +1,1 @@
+cmd_/home/siyuan414/Desktop/helloworld/helloworld.mod := printf '%s\n'   helloworld.o | awk '!x[$$0]++ { print("/home/siyuan414/Desktop/helloworld/"$$0) }' > /home/siyuan414/Desktop/helloworld/helloworld.mod

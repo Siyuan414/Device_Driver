@@ -1,0 +1,1 @@
+cmd_/home/siyuan414/Desktop/Device_Driver/char_device_driver/char_driver.ko := ld -r -EL -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/siyuan414/Desktop/Device_Driver/char_device_driver/char_driver.ko /home/siyuan414/Desktop/Device_Driver/char_device_driver/char_driver.o /home/siyuan414/Desktop/Device_Driver/char_device_driver/char_driver.mod.o;  true

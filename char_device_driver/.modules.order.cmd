@@ -1,0 +1,1 @@
+cmd_/home/siyuan414/Desktop/Device_Driver/char_device_driver/modules.order := {   echo /home/siyuan414/Desktop/Device_Driver/char_device_driver/char_driver.ko; :; } > /home/siyuan414/Desktop/Device_Driver/char_device_driver/modules.order

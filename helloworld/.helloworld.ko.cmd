@@ -1,0 +1,1 @@
+cmd_/home/siyuan414/Desktop/helloworld/helloworld.ko := ld -r -EL -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/siyuan414/Desktop/helloworld/helloworld.ko /home/siyuan414/Desktop/helloworld/helloworld.o /home/siyuan414/Desktop/helloworld/helloworld.mod.o;  true

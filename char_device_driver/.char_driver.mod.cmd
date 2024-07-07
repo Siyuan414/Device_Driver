@@ -1,0 +1,1 @@
+cmd_/home/siyuan414/Desktop/Device_Driver/char_device_driver/char_driver.mod := printf '%s\n'   char_driver.o | awk '!x[$$0]++ { print("/home/siyuan414/Desktop/Device_Driver/char_device_driver/"$$0) }' > /home/siyuan414/Desktop/Device_Driver/char_device_driver/char_driver.mod
